@@ -1,16 +1,27 @@
-### Hi there 👋
+### It is so nice seeing you again! 👋
 
-<!--
-**leahmariefernandez/leahmariefernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's what I've been up to recently: 
 
-Here are some ideas to get you started:
+#### Here & Now: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:books: In sporadic times, I read to slow down
+
+:camera: Constantly taking photos of everyone & everything around me
+
+:microscope: Interests lie in the realm of AI Research
+
+:herb: Finding new ways to being sustainable
+
+
+#### There & Later:
+* Interested in **software**, **product design** & **R&D projects** 
+* Learning more about firmware & hardware with UBC Formula Electric all whilst taking photos & filming the car
+* I love working with and learning from others! All the best moments of my life are shared with those around me
+
+#### I hope to see you again! Don't be a stranger:
+
+Website in progress!
+
+[Email](mailto:leahhmfernandez@gmail.com)
+
+[Linkedin](https://www.linkedin.com/in/leah-fernandez-120045198/)
