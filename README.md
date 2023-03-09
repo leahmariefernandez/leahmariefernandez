@@ -15,7 +15,7 @@ Here's what I've been up to recently:
 
 #### There & Later:
 * Interested in **software**, **product design** & **R&D projects** 
-* Learning more about firmware & hardware with UBC Formula Electric all whilst taking photos & filming the car
+* Learning more about firmware & hardware with [UBC Formula Electric](https://www.ubcformulaelectric.com/) all whilst taking photos & filming the car
 * I love working with and learning from others! All the best moments of my life are shared with those around me
 
 #### I hope to see you again! Don't be a stranger:
