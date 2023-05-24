@@ -6,6 +6,8 @@ Here's what I've been up to recently:
 
 :school_satchel: A second year student studying Computer Science & more at UBC
 
+:computer: Currently working at the Emerging Media Lab as a Software Developer
+
 :books: In sporadic times, I [read](https://parallel-telephone-ee8.notion.site/fa81dd23c210421cbb732a73c72b633d?v=7d7ba9731ccb4d7da71a681554cd237a) to slow down
 
 :camera: Constantly taking photos of everyone & everything around me
