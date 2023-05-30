@@ -12,8 +12,6 @@ Here's what I've been up to recently:
 
 :camera: Constantly taking photos of everyone & everything around me
 
-:microscope: Interests lie in the realm of AI Research
-
 :herb: Finding new ways to being sustainable
 
 
